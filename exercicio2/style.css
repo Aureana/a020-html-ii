@@ -41,4 +41,16 @@
     text-align: center;
     color: white;
   }
+  img {
+    max-width: 50%;
+    height: 150px;
+  }
+  video {
+    max-width: 50%;
+    height: 150px;
+  }
+  audio {
+    max-width: 50%;
+    height: 150px;
+  }
   
